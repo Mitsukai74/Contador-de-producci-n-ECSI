@@ -1,0 +1,10 @@
+F:\Cstemp_CS\ContadorProducc\ContadorProducc\bin\Debug\ContadorProducc.exe.config
+F:\Cstemp_CS\ContadorProducc\ContadorProducc\bin\Debug\ContadorProducc.exe
+F:\Cstemp_CS\ContadorProducc\ContadorProducc\bin\Debug\ContadorProducc.pdb
+F:\Cstemp_CS\ContadorProducc\ContadorProducc\obj\Debug\ContadorProducc.csprojAssemblyReference.cache
+F:\Cstemp_CS\ContadorProducc\ContadorProducc\obj\Debug\ContadorProducc.Form1.resources
+F:\Cstemp_CS\ContadorProducc\ContadorProducc\obj\Debug\ContadorProducc.Properties.Resources.resources
+F:\Cstemp_CS\ContadorProducc\ContadorProducc\obj\Debug\ContadorProducc.csproj.GenerateResource.cache
+F:\Cstemp_CS\ContadorProducc\ContadorProducc\obj\Debug\ContadorProducc.csproj.CoreCompileInputs.cache
+F:\Cstemp_CS\ContadorProducc\ContadorProducc\obj\Debug\ContadorProducc.exe
+F:\Cstemp_CS\ContadorProducc\ContadorProducc\obj\Debug\ContadorProducc.pdb
